@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Reto__0___EL_FAMOSO_FIZZ_BUZZ
+namespace Reto__1___EL_FAMOSO_FIZZ_BUZZ
 {
     class Program
     {
