@@ -1,0 +1,7 @@
+C:\Users\mabus\Documents\1-DAM\PRO\ACs\Reto #0 - EL FAMOSO FIZZ BUZZ\Reto #0 - EL FAMOSO FIZZ BUZZ\bin\Debug\Reto #0 - EL FAMOSO FIZZ BUZZ.exe.config
+C:\Users\mabus\Documents\1-DAM\PRO\ACs\Reto #0 - EL FAMOSO FIZZ BUZZ\Reto #0 - EL FAMOSO FIZZ BUZZ\bin\Debug\Reto #0 - EL FAMOSO FIZZ BUZZ.exe
+C:\Users\mabus\Documents\1-DAM\PRO\ACs\Reto #0 - EL FAMOSO FIZZ BUZZ\Reto #0 - EL FAMOSO FIZZ BUZZ\bin\Debug\Reto #0 - EL FAMOSO FIZZ BUZZ.pdb
+C:\Users\mabus\Documents\1-DAM\PRO\ACs\Reto #0 - EL FAMOSO FIZZ BUZZ\Reto #0 - EL FAMOSO FIZZ BUZZ\obj\Debug\Reto #0 - EL FAMOSO FIZZ BUZZ.csproj.AssemblyReference.cache
+C:\Users\mabus\Documents\1-DAM\PRO\ACs\Reto #0 - EL FAMOSO FIZZ BUZZ\Reto #0 - EL FAMOSO FIZZ BUZZ\obj\Debug\Reto #0 - EL FAMOSO FIZZ BUZZ.csproj.CoreCompileInputs.cache
+C:\Users\mabus\Documents\1-DAM\PRO\ACs\Reto #0 - EL FAMOSO FIZZ BUZZ\Reto #0 - EL FAMOSO FIZZ BUZZ\obj\Debug\Reto #0 - EL FAMOSO FIZZ BUZZ.exe
+C:\Users\mabus\Documents\1-DAM\PRO\ACs\Reto #0 - EL FAMOSO FIZZ BUZZ\Reto #0 - EL FAMOSO FIZZ BUZZ\obj\Debug\Reto #0 - EL FAMOSO FIZZ BUZZ.pdb
